@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteParameter", "RoutePara
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryString", "QueryString\QueryString.csproj", "{850141EF-0331-44DC-B42D-845FC103C3E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms\Forms.csproj", "{560679D0-8EC1-46FC-9589-E3091C75F540}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{850141EF-0331-44DC-B42D-845FC103C3E4}.Release|x64.Build.0 = Release|Any CPU
 		{850141EF-0331-44DC-B42D-845FC103C3E4}.Release|x86.ActiveCfg = Release|Any CPU
 		{850141EF-0331-44DC-B42D-845FC103C3E4}.Release|x86.Build.0 = Release|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Debug|x64.Build.0 = Debug|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Debug|x86.Build.0 = Debug|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Release|x64.ActiveCfg = Release|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Release|x64.Build.0 = Release|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Release|x86.ActiveCfg = Release|Any CPU
+		{560679D0-8EC1-46FC-9589-E3091C75F540}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

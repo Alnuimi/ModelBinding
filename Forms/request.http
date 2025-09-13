@@ -1,0 +1,7 @@
+@baseurl = https://localhost:7113
+
+###
+GET {{baseurl}}/product/product-controller
+Content-Type: application/x-www-form-urlencoded
+
+name=soda&price=10

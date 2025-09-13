@@ -1,0 +1,16 @@
+@baseurl = https://localhost:7210
+
+###
+{{baseurl}}/product/v0?id=1
+
+
+### V1
+{{baseurl}}/product/v1?page=1&pageSize=10
+
+
+### V2
+GET {{baseurl}}/product/product-complex-query?Query=soda&Page=2&PageSize=10
+
+
+### V3
+GET {{baseurl}}/product/product-dateRange?dateRange=2025-09-10,2025-09-13

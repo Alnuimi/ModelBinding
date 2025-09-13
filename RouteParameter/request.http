@@ -1,0 +1,10 @@
+@baseurl = https://localhost:7018
+
+###
+{{baseurl}}/product/v0/1
+
+###
+{{baseurl}}/product/v1/10
+
+###
+{{baseurl}}/product/v2/10

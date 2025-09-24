@@ -5,3 +5,16 @@ GET {{baseurl}}/product/product-controller
 Content-Type: application/x-www-form-urlencoded
 
 name=soda&price=10
+
+
+###
+POST  {{baseurl}}/product/upload-controller
+Content-Type: multipart/form-data; boundary=MyBoundary
+
+--MyBoundary
+Content-Disposition: form-data; name="file" ; filename="test.txt"
+Content-Type: text/plain
+
+< D:\test.txt
+
+--MyBoundary--
